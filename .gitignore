@@ -1,0 +1,5 @@
+*
+!.gitignore
+!*/.config/nvim/init.vim
+!.bashrc
+!.profile
